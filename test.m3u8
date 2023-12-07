@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=670000,RESOLUTION=640x286,CODECS="mp4a.40.2,avc1.4d4015",FRAME-RATE=24.0,CLOSED-CAPTIONS=NONE
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3400000,RESOLUTION=1920x858,CODECS="mp4a.40.2,avc1.640028",FRAME-RATE=24.0,CLOSED-CAPTIONS=NONE
+https://storage.googleapis.com/shaka-demo-assets/angel-one-hls/hls.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1710000,RESOLUTION=1280x572,CODECS="mp4a.40.2,avc1.4d401f",FRAME-RATE=24.0,CLOSED-CAPTIONS=NONE
+https://videos-cloudfront-usp.jwpsrv.com/6572dfbb_028ea2b444708b3040813eeaa64daefe18d38964/site/zWLy8Jer/media/vM7nH0Kl/version/21ETjILN/manifest.ism/manifest-audio_eng=112000-video_eng=1588768.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=380000,RESOLUTION=320x142,CODECS="mp4a.40.2,avc1.42c00d",FRAME-RATE=24.0,CLOSED-CAPTIONS=NONE
+https://videos-cloudfront-usp.jwpsrv.com/6572dfbb_028ea2b444708b3040813eeaa64daefe18d38964/site/zWLy8Jer/media/vM7nH0Kl/version/21ETjILN/manifest.ism/manifest-audio_eng=112000-video_eng=264864.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=120000,CODECS="mp4a.40.2"
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
